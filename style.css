@@ -4,7 +4,7 @@
     padding: 0;
     height: 100%;
     overflow: hidden;
-    font-family: Arial, sans-serif;
+    font-family: 'Barlow', sans-serif;
     color: white;
   }
 
@@ -29,23 +29,24 @@
     align-items: center;
     text-align: center;
     padding: 0 20px;
-    background-color: rgba(0, 0, 0, 0.3);
+    
   }
 
   #get-iss-location {
-    margin-top: 20px;
-    padding: 10px 20px;
+    margin-top: 50px;
+    padding: 20px 50px;
     font-size: 1rem;
-    background-color: #8c1191;
+    background-color: #A2B29F;
     border: none;
-    color: white;
-    border-radius: 5px;
+    color: #DDE6ED;
+    border-radius: 7px;
     cursor: pointer;
     transition: background-color 0.3s;
+    font-weight: 300;
   }
 
   #get-iss-location:hover {
-    background-color: #0f74d1;
+    background-color: #798777;
   }
 
   /* ISS location result */
@@ -55,7 +56,15 @@
   }
 
   h1 {
+    color: #F8EDE3;
     font-size: 5rem;
     margin-bottom: 40px;
   }
+  .find{
+    color: #BDD2B6;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+
+  
   
