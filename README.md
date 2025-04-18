@@ -1,2 +1,1 @@
-[ISS LOCATOR](iss-location-seven.vercel.app)
-
+https://iss-location-seven.vercel.app/
